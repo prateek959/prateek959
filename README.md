@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prateek Kushwaha</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">
+I’m a passionate backend developer from India, specializing in Node.js for building fast and scalable applications. I have extensive experience working with MongoDB, leveraging its flexibility to handle complex data structures. My focus is on creating efficient, secure, and high-performance solutions that can scale with growing demands. I'm always eager to learn and implement the latest technologies to enhance my development skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek959&label=Profile%20views&color=0e75b6&style=flat" alt="prateek959" /> </p>
 
