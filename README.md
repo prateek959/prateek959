@@ -19,7 +19,7 @@ I’m a passionate backend developer from India, specializing in Node.js for bui
 <h3 align="left">My Projects:</h3>
 
 1. **Lets chat Application**  
-   - 📂 Repository: [GitHub Link](https://github.com/Deepeshnama/LetsChat-)  
+   - 📂 Repository: [GitHub Link](https://github.com/prateek959/LetsChat-)  
    - 🔗 Live Demo: [Deployed Link](https://helpful-tarsier-fd8e00.netlify.app/)  
 
 2. **CALORIES TRACKER**  
