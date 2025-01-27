@@ -17,13 +17,13 @@
 
 <h3 align="left">My Projects:</h3>
 
-1. **Virtual Classroom Platform**  
-   - 📂 Repository: [GitHub Link](https://github.com/riturajgupta021/Virtual_class_room)  
-   - 🔗 Live Demo: [Deployed Link](https://virtual-class-room.netlify.app/)  
+1. **Lets chat Application**  
+   - 📂 Repository: [GitHub Link](https://github.com/Deepeshnama/LetsChat-)  
+   - 🔗 Live Demo: [Deployed Link](https://helpful-tarsier-fd8e00.netlify.app/)  
 
-2. **Full-Stack Admin Dashboard**  
-   - 📂 Repository: [GitHub Link](https://github.com/riturajgupta021/mern-backend)  
-   - 🔗 Live Demo: [Deployed Link](https://riturajgupta.netlify.app/)
+2. **CALORIES TRACKER**  
+   - 📂 Repository: [GitHub Link](https://github.com/AnshikSuhane/6308-hackerthon)  
+   - 🔗 Live Demo: [Deployed Link](https://eatlog.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
