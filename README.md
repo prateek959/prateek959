@@ -15,10 +15,15 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1G0Czs7baA7WtcWBLypbAkLHM2gA-pmF8/view?usp=sharing)
 
-<h3 align="left">Projects:</h3>
-- [Project 1: Task Manager API](https://github.com/prateek959/task-manager-api) - A RESTful API built using Node.js and MongoDB.
-- [Project 2: E-commerce Backend](https://github.com/prateek959/e-commerce-backend) - A backend system for an e-commerce platform with authentication and product management using Node.js and MongoDB.
-- [Project 3: Blog Platform API](https://github.com/prateek959/blog-platform-api) - A backend API for managing blog posts, comments, and user profiles.
+<h3 align="left">My Projects:</h3>
+
+1. **Virtual Classroom Platform**  
+   - 📂 Repository: [GitHub Link](https://github.com/riturajgupta021/Virtual_class_room)  
+   - 🔗 Live Demo: [Deployed Link](https://virtual-class-room.netlify.app/)  
+
+2. **Full-Stack Admin Dashboard**  
+   - 📂 Repository: [GitHub Link](https://github.com/riturajgupta021/mern-backend)  
+   - 🔗 Live Demo: [Deployed Link](https://riturajgupta.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
