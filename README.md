@@ -14,7 +14,7 @@ I’m a passionate backend developer from India, specializing in Node.js for bui
 
 - 📫 How to reach me **prateekkush8081@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1G0Czs7baA7WtcWBLypbAkLHM2gA-pmF8/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1R4L_IYahzA1Q8Mk5NiEGBtJfVBeWfOG8/view?usp=sharing)
 
 <h3 align="left">My Projects:</h3>
 
