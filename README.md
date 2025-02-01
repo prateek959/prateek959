@@ -19,8 +19,8 @@ I’m a passionate backend developer from India, specializing in Node.js for bui
 <h3 align="left">My Projects:</h3>
 
 1. **Lets chat Application**  
-   - 📂 Repository: [GitHub Link](https://github.com/prateek959/LetsChat-)  
-   - 🔗 Live Demo: [Deployed Link](https://helpful-tarsier-fd8e00.netlify.app/)  
+   - 📂 Repository: [GitHub Link](https://github.com/prateek959/Construct-week-project)  
+   - 🔗 Live Demo: [Deployed Link](https://construct-week-project-mocha.vercel.app/)  
 
 2. **CALORIES TRACKER**  
    - 📂 Repository: [GitHub Link](https://github.com/AnshikSuhane/6308-hackerthon)  
