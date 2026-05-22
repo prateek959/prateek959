@@ -1,4 +1,3 @@
-````md id="github-readme-updated"
 <h1 align="center">Hi 👋, I'm Prateek Kushwaha</h1>
 
 <h3 align="center">
@@ -107,6 +106,12 @@ https://saas-chatbot-builder.vercel.app
 ### 🛠️ Tech Stack
 `Node.js` `Express.js` `MongoDB` `React.js`
 
+🔗 GitHub Repo  
+https://github.com/prateek959/AI_Resume_Analyzer
+
+🌐 Live Demo  
+https://airesumeana.netlify.app/
+
 ---
 
 ## 3️⃣ AI Interview Simulator
@@ -124,6 +129,12 @@ https://saas-chatbot-builder.vercel.app
 ### 🛠️ Tech Stack
 `Node.js` `Express.js` `MongoDB` `Gemini AI`
 
+🔗 GitHub Repo  
+https://github.com/prateek959/AI_Interview
+
+🌐 Live Demo  
+https://aiinterview123.netlify.app
+
 ---
 
 ## 4️⃣ AI E-commerce Chat Support
@@ -140,13 +151,30 @@ https://saas-chatbot-builder.vercel.app
 ### 🛠️ Tech Stack
 `Node.js` `Express.js` `React.js`
 
+🔗 GitHub Repo  
+https://github.com/prateek959/AI_chat_support
+
+🌐 Live Demo  
+https://comforting-tapioca-860aa8.netlify.app
+
 ---
 
 # 🏆 Certifications
 
-🏅 Full Stack Web Development – Masai School  
-🏅 Construct Week Project Certificate – Masai School  
+🏅 Full Stack Web Development – Masai School 
+
+🌐 Live Demo  
+https://drive.google.com/file/d/1reQ4H3FYPW9qsPxC-PVf3gr0cQ_msteX/view
+
+🏅 Construct Week Project Certificate – Masai School 
+
+🌐 Live Demo  
+https://certs.masaischool.com/certificate/cww-b41-fs39_332335
+
 🏅 Hackathon Participation Certificate – Masai School
+
+🌐 Live Demo
+https://certs.masaischool.com/certificate/xto10jan_fs39_332335
 
 ---
 
@@ -219,4 +247,4 @@ const prateek = {
 <h3 align="center">
 ⭐ If you like my projects, feel free to star the repositories!
 </h3>
-```
+
